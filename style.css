@@ -1,0 +1,17 @@
+body{
+    background: linear-gradient(to top left, rgba(197, 0, 181, 0.644),rgb(55, 0, 255),rgb(255, 0, 255),  rgb(47, 0, 255));
+    color: rgb(0, 0, 0);
+    height: 100vh;
+    margin: 32px;
+    font-size: large;
+    font-family: 'Segoe UI';
+    text-align: center;
+ }
+ 
+ button, input{
+    background-color: black;
+    color: white;
+    height: 36px;
+    border-radius: 12px;
+ }
+ 
